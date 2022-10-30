@@ -1,0 +1,7 @@
+.content-session{
+    width:100vw;
+    min-height: 100vh;
+    background-color: orange;
+    display: flex;
+    justify-items: center;
+}

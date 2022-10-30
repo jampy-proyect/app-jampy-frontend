@@ -1,0 +1,48 @@
+:root {
+  font-family: 'Darker Grotesque';
+  font-size: 1.3rem;
+  line-height: 24px;
+  font-weight: 400;
+
+  /* color-scheme: light dark; */
+  /* color: rgba(255, 255, 255, 0.87); */
+  /* background-color: #242424; */
+  
+  /* font-synthesis: none; */
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+  
+  /* app global config */
+    /* main */
+    --main-primary:#0DA1A4;
+    --main-primary-hover:#5ECABF;
+    --main-secundary:#092C64;
+  
+    /* secundary */
+    
+    /* surface */
+    --surface-primary:#FAF9FF;
+    --surface-secundary:#FFFFFF;
+    --surface-three:#1F1D26;
+
+    /* surface inputs */
+    --input-bg-firts:#c1f4ff;
+  
+    /* font */
+    --font-prmary: #353241;
+    --font-secundary: #35B7B2;
+
+  background-color: var(--surface-primary);
+
+
+}
+
+/* body { */
+  /* margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh; */
+/* } */
